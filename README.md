@@ -7,7 +7,7 @@ The contributions of this article can be summarized as follows:
 
 (2) The improved thresholds to process the wavelet coefficients after the discrete decomposition, the wavelet inverted signal can be reconstructed more accurately.
 
-(3) Theimprovedthresholdcanbeusedtoefficientlyremovethe noise wavelet coefficients and to retain more of the original signal wavelet coefficients.
+(3) The improved threshold can be used to efficiently removethe noise wavelet coefficients and to retain more of the original signal wavelet coefficients.
 
 (4) We design a federated learning based ECG signal classifier, which provides efficient classification of ECG signals and insures security and privacy of the data owners.
 
